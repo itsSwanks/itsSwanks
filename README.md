@@ -31,7 +31,9 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Apple](https://img.shields.io/badge/iOS%20%C2%B7%20iPadOS%20%C2%B7%20watchOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![watchOS](https://img.shields.io/badge/watchOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -46,11 +48,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=itsSwanks&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2EC9BA&icon_color=2EC9BA&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsSwanks&layout=compact&hide_border=true&langs_count=8&title_color=2EC9BA&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=itsSwanks&hide_border=true&background=0d1117&border=0d1117&stroke=2EC9BA&ring=2EC9BA&fire=2EC9BA&currStreakLabel=2EC9BA&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub streak" />
 
