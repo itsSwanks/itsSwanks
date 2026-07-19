@@ -7,8 +7,14 @@
 </a>
 
 <p>
-  <a href="https://itsswanks.github.io"><img src="https://img.shields.io/badge/Portfolio-itsswanks.github.io-2EC9BA?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://x.com/0swanky"><img src="https://img.shields.io/badge/%400swanky-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  🌐&nbsp;<a href="https://itsswanks.github.io"><b>Portfolio</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  𝕏&nbsp;<a href="https://x.com/0swanky"><b>@0swanky</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  🍎&nbsp;<a href="https://apps.apple.com/us/app/receira-for-papra/id6774353903"><b>App&nbsp;Store</b></a>
+</p>
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=itsSwanks&style=for-the-badge&color=2EC9BA&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
